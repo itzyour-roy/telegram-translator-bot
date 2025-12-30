@@ -231,7 +231,7 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def botinfo(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_html(
-        "🤖 <b>Enterprise Translator Bot</b>\n"
+        "🤖 <b>DEMIGODS Translator Bot</b>\n"
         "━━━━━━━━━━━━━━━━━━\n"
         "• Auto language detection\n"
         "• SQLite persistence\n"
